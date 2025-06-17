@@ -25,7 +25,4 @@ pidfile = None
 umask = 0
 user = None
 group = None
-tmp_upload_dir = None
-
-# Application
-wsgi_app = "app:application" 
+tmp_upload_dir = None 
